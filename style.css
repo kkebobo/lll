@@ -1,0 +1,36 @@
+body{
+    font-family: "Comic Sans MS";
+    background-color: rgb(193, 191, 191);
+}
+.bodyy{
+    font-family: "Comic Sans MS";
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: line-through;
+}
+
+a:active{
+    color: blueviolet;
+}
+
+a:visited{
+    color: rgb(28, 74, 37);
+}
+
+h1{
+    color: rgb(123, 26, 26);
+}
+.card{
+    padding: 50px;
+}
+
+h2{
+    background-color: rgb(164, 212, 196);
+}
+
+
